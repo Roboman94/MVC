@@ -1,0 +1,13 @@
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\bin\Debug\netcoreapp3.1\MVCConsoleApp.exe
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\bin\Debug\netcoreapp3.1\MVCConsoleApp.deps.json
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\bin\Debug\netcoreapp3.1\MVCConsoleApp.runtimeconfig.json
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\bin\Debug\netcoreapp3.1\MVCConsoleApp.runtimeconfig.dev.json
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\bin\Debug\netcoreapp3.1\MVCConsoleApp.dll
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\bin\Debug\netcoreapp3.1\MVCConsoleApp.pdb
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\obj\Debug\netcoreapp3.1\MVCConsoleApp.csprojAssemblyReference.cache
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\obj\Debug\netcoreapp3.1\MVCConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\obj\Debug\netcoreapp3.1\MVCConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\obj\Debug\netcoreapp3.1\MVCConsoleApp.AssemblyInfo.cs
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\obj\Debug\netcoreapp3.1\MVCConsoleApp.dll
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\obj\Debug\netcoreapp3.1\MVCConsoleApp.pdb
+C:\Users\kenda\source\repos\MVCConsoleApp\MVCConsoleApp\obj\Debug\netcoreapp3.1\MVCConsoleApp.genruntimeconfig.cache
